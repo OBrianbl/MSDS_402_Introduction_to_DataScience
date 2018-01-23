@@ -1,7 +1,6 @@
 # Dashboard Design Project
 
 ## Problem Description
-Suppose you are a sales design manager in a hypothetical widget company. 
 The widget company already collects data from a number of source systems, including sales volume, 
 production costs, total number of customers, number of new customers, and total market sales 
 (sales from Widget co. and its competitors).<br>
